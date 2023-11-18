@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jobeda123
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently working with React.js =, Next.js and few more frontend technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
